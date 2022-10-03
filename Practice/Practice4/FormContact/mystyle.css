@@ -1,0 +1,49 @@
+body{
+	width:80%;
+	display:block;
+	margin:auto;
+}
+h2{
+	color: #739c62; 
+	margin-left: 10%;
+	
+}
+.container{
+	width:970px !important;
+	margin: auto;
+}
+
+.content{
+    margin:auto;
+    width:900px;
+    min-height:500px;
+	padding-top:20px;
+
+}
+footer{
+	
+	font-weight: bold;
+}
+
+article{	
+    background: #f7f9f7;
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    color: #313331;
+    opacity: 0.9;
+    min-height:430px;
+    width:900px;
+
+}
+article h3{
+    color: #4e4e4e;
+	font-weight: bold;
+	font-style: italic;
+}
+			
+article p{
+    font-size:16px;
+}
+
